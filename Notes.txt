@@ -1,0 +1,24 @@
+If you're aiming to pass your Certified in Cybersecurity certification, I strongly recommend thoroughly studying the materials provided on the learning portal: https://learn.isc2.org/d2l/home If you have a clear understanding of all the topics, the exam should be relatively straightforward. However, if your concepts aren't crystal clear, there's a high likelihood of failing the exam. So, make sure to focus on understanding each topic thoroughly before attempting the exam.
+
+Here is a playlist of YouTube videos. If you understand Hindi, I'm confident that this playlist will clarify all your doubts. Therefore, I highly recommend watching this playlist to ensure a thorough understanding of all the concepts: https://www.youtube.com/watch?v=JItB8DV6N9w&list=PLGUeNZBVHcelqTgh7QsYWTKpTrO4qygi8
+
+If you don’t understand hindi you may go through this playlist:  https://www.youtube.com/watch?v=0F3QP2Bt1KI&list=PL0hT6hgexlYw-k6GxQf_DIAPdc96T2MP-
+
+To assess your progress, I suggest taking practical exams. Take this exam and aim to score above 85 in your attempts. This will give you a good indication of your understanding and readiness: 
+Exam 1: https://www.linkedin.com/learning/courses/practice-exam-1-for-isc2-certified-in-cybersecurity-cc/practice-exams/urn:li:la_assessmentV2:54624080?lipi=urn%3Ali%3Apage%3Ad_learning_assessments_practice_exam%3B8RVVqu92RXS%2Bb4uzf6yZYA%3D%3D&licu
+Exam 2: https://www.linkedin.com/learning/courses/practice-exam-2-for-isc2-certified-in-cybersecurity-cc/practice-exams/urn:li:la_assessmentV2:54626120?lipi=urn%3Ali%3Apage%3Ad_learning_assessments_practice_exam%3BC9bHa31sToSG7udtYEAGjg%3D%3D&licu
+Exam 3: https://www.linkedin.com/learning/courses/practice-exam-3-for-isc2-certified-in-cybersecurity-cc/practice-exams/urn:li:la_assessmentV2:54625153?lipi=urn%3Ali%3Apage%3Ad_learning_assessments_practice_exam%3BdXeJduhgQyCatULtSb3K%2Bw%3D%3D&licu
+Exam 4: https://www.linkedin.com/learning/courses/practice-exam-4-for-isc2-certified-in-cybersecurity-cc/practice-exams/urn:li:la_assessmentV2:54624176?lipi=urn%3Ali%3Apage%3Ad_learning_assessments_practice_exam%3BCIVf8s%2FIT6OF8zHjenV2DA%3D%3D&licu
+
+You may also follow this if you want: 
+1)	https://github.com/Am0rphous/ISC2-Certified-Cybersecurity-Guide
+2)	https://github.com/cyberfascinate/ISC2-CC-Study-Material/tree/main/.github
+ 
+If you have a clear understanding of the concepts, go ahead and register for the exam. Not to worry you will sure pass your certification, As my final suggestion, I strongly advise against using exam dumps.
+
+
+
+If you encounter any difficulties with studying, the exam, or anything else, don't hesitate to reach out to me. I'm always available to assist you, so feel free to ask anything you need.
+Linkedin  https://www.linkedin.com/in/nurjaman-shaikh-89a61122a
+Instagram   __nurjaman__
+Twitter Check out Nurjaman Shaikh (@NurjamanShaikh6): https://x.com/NurjamanShaikh6?t=DVk7LkziL8T9yCn0VuWi4g&s=08 
